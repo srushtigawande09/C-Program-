@@ -1,0 +1,12 @@
+//Welcome to the world of C
+#include <stdio.h>
+
+int main()
+{
+    printf("Welcome to the world of C");
+
+    return 0;
+}
+
+Output : 
+Welcome to the world of C
